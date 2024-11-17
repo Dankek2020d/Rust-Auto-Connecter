@@ -1,6 +1,7 @@
 # Rust-Auto-Connecter
 ---
 # Guide to activate:
+- Unzip rust-ac.zip to any location
 - You need to run config_change file
 - Run start file
 - Don't touch anything, just wait
